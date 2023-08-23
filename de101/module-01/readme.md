@@ -6,3 +6,6 @@
 # Часть 2. Дашборд
 
 ![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-01/dashboard.png)
+
+#
+![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-01/dashboard2.png)
