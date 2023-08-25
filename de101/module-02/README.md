@@ -1,6 +1,8 @@
 # Задание для модуля 2
 
 ## Установка БД
+Установка postgres и dbeaver cloud в контейнерах докер. 
+Файл docker-compose:
 ```
 version: "3.9"
       
