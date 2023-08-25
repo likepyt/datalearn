@@ -37,7 +37,9 @@ services:
       - ./data_dbeaver:/opt/cloudbeaver/workspace
 ```
 ## Загрузка данных в БД
+![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/db-create.png)
 
+![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/import csv.png)
 ## SQL запросы
 
 ## Нарисовать модель данных в SQLdbm
