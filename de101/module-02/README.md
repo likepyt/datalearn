@@ -43,6 +43,28 @@ services:
 ![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/import-csv.png)
 ## SQL запросы
 
+1. Overview (обзор ключевых метрик)
+  - Total Sales 
+      ```sql
+      select 
+	      sum(o.sales)
+      from 
+	      public.orders o
+      ```
+  - Total Profit
+  - Profit Ratio
+  - Profit per Order
+  - Sales per Customer
+  - Avg. Discount
+  - Monthly Sales by Segment ( табличка и график)
+  - Monthly Sales by Product Category (табличка и график)
+ 2. Product Dashboard (Продуктовые метрики)
+  - Sales by Product Category over time (Продажи по категориям)
+ 3. Customer Analysis
+  - Sales and Profit by Customer
+  - Customer Ranking
+  - Sales per region
+
 ## Нарисовать модель данных в SQLdbm
 
 ## Нарисовать графики в Google Sheets
