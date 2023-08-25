@@ -170,6 +170,13 @@ services:
     
 ## Нарисовать модель данных в SQLdbm
 
+Концептуальная модель данных:
+![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/concept-model.png)
+
+Физическая модель данных:
+![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/phyz-model.png)
+
 ## Нарисовать графики в Google Sheets
 
-## Нарисовать графики в KlipFolio
+Дашборд в looker studio:
+![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/dashboard.png)
