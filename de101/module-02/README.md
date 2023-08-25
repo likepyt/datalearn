@@ -178,5 +178,4 @@ services:
 
 ## Нарисовать графики в Google Sheets
 
-Дашборд в looker studio:
 ![Alt text](https://github.com/likepyt/datalearn/blob/main/de101/module-02/dashboard.png)
